@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           Your Personal ChatGPT Web
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          点击下方"A"图标获取使用说明和最新的code、API key.
+          点击下方A图标获取使用说明和最新的code、API key
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
