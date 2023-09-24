@@ -7,7 +7,7 @@ import { type Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Your personal ChatGPT Web",
-  description: "点击下方“A”图标获取使用说明和最新的code、API key.",
+  description: "点击下方 A 图标获取使用说明和最新的code、API key.",
   viewport: {
     width: "device-width",
     initialScale: 1,
